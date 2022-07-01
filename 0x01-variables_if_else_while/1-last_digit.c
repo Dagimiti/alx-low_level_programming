@@ -3,7 +3,8 @@
 #include <stdio.h>
 
 /**
- * main - prints the last digit of the random 
+ * main - prints the last digit of the random
+ *
  * Return: always 0 (success)
  */
 int main(void)

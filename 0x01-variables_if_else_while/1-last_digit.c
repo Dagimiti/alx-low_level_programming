@@ -6,7 +6,6 @@
  * main - outputs the last digit 
  * Return: always 0 (success)
  */
-
 int main(void)
 {
 	int n;

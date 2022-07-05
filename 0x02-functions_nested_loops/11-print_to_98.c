@@ -4,19 +4,19 @@
 /**
  * print_to_98 - prints all natural numbers
  *
- * @a: starting point
+ * @n: starting point
  * Return: returns nothing
  *
  */
-void print_to_98(int a)
+void print_to_98(int n)
 {
-	if (a <= 98)
+	if (n <= 98)
 	{
-		for (a = a; a<= 97; a++)
+		for (n = n; n<= 97; n++)
 			printf("%d, ", n);
 	}
 	else
-		for (a = a; a > 98; a--)
+		for (n = n; n > 98; n--)
 			printf("%d, ", n);
 	printf("98\n");
 }

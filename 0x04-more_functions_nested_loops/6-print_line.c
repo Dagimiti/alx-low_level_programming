@@ -3,7 +3,7 @@
 /**
  * print_line - This function prints a straight line based on the value passed 
  * @n: How long the line is
- * return: nothing
+ * Return: nothing
  */
 
 void print_line(int n)

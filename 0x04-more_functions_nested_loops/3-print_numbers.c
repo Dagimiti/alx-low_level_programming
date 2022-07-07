@@ -6,12 +6,11 @@
  * Return: nothing
  */
 
-int print_numbers(void)
+void print_numbers(void)
 {
 	int a;
 
-	a = 48;
-	while  (a < 58)
+	for (a >= 48 && a < 58)
 	{
 		_putchar(a);
 		a++;

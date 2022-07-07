@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * print_line - this function prints a straight line 
- * @n: how long the line is
+ * print_line - This function prints a straight line 
+ * @n: How long the line is
  * return: nothing
  */
 

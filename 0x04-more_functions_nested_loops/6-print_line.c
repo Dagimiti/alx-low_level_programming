@@ -3,7 +3,6 @@
 /**
  * print_line - draws a straight line 
  * @n: intiger under investigation
- *
  * Return: nothing
  */
 

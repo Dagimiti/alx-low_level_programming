@@ -2,8 +2,8 @@
 
 /**
  * print_line - draws a straight line 
- * @n: intiger under investigation
- * Return: nothing
+ * @n: how long the line is
+ * return: nothing
  */
 
 void print_line(int n)

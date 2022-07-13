@@ -3,7 +3,7 @@
 /**
  * puts_half - prints second half of the string
  * @str: Pointer to the second half of the string
- * 
+ *
  * Return: nothing
  */
 

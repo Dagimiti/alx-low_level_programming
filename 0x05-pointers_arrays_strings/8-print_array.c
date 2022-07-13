@@ -5,7 +5,7 @@
  * print_array - prints the integers in an array
  * @a: The pointer to the array
  * @n: number of array elements
- * 
+ *
  * Return: Nothing
  */
 
